@@ -60,6 +60,8 @@ using the `axios` package to the Bands in Town, Spotify and OMDB APIs, and retur
       
 
    * If the user does not enter a movie selection, the program outputs data for the movie 'Mr. Nobody.'
+   
+   ![Liri Bot](screenshots/movie-this.gif "Liri Bot")
 
 4. **`node liri.js do-what-it-says`**
 
