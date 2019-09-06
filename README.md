@@ -30,6 +30,11 @@ using the `axios` package to the Bands in Town, Spotify and OMDB APIs, and retur
      * Venue location
 
      * Date of the Event (using the format "MM/DD/YYYY")
+     
+    * **Demonstraion gif:**
+   
+   ![Liri Bot](screenshots/concert-this.gif "concert-this.gif")
+ 
 
 2. **`node liri.js spotify-this-song '<song name here>'`**
 
@@ -44,6 +49,11 @@ using the `axios` package to the Bands in Town, Spotify and OMDB APIs, and retur
      * The album containing the song
 
    * If no song is provided, the program defaults to "The Sign" by Ace of Base.
+   
+   * **Demonstraion gif:**
+   
+   ![Liri Bot](screenshots/spotify-this-song.gif "spotify-this-song.gif")
+
 
 3. **`node liri.js movie-this '<movie name here>'`**
 
@@ -64,10 +74,16 @@ using the `axios` package to the Bands in Town, Spotify and OMDB APIs, and retur
    * **Demonstraion gif:**
    
    ![Liri Bot](screenshots/movie-this.gif "movie-this.gif")
+   
 
 4. **`node liri.js do-what-it-says`**
 
      * References the random.txt file to run `spotify-this-song` for "I Want it That Way".
+     
+     * **Demonstraion gif:**
+   
+   ![Liri Bot](screenshots/do-what-it-says.gif "do-what-it-says.gif")
+
      
 
 ## Built With
