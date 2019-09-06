@@ -31,7 +31,7 @@ using the `axios` package to the Bands in Town, Spotify and OMDB APIs, and retur
 
      * Date of the Event (using the format "MM/DD/YYYY")
      
-    * **Demonstraion gif:**
+    * **Demonstration gif:**
    
    ![Liri Bot](screenshots/concert-this.gif "concert-this.gif")
  
@@ -50,7 +50,7 @@ using the `axios` package to the Bands in Town, Spotify and OMDB APIs, and retur
 
    * If no song is provided, the program defaults to "The Sign" by Ace of Base.
    
-   * **Demonstraion gif:**
+   * **Demonstration gif:**
    
    ![Liri Bot](screenshots/spotify-this-song.gif "spotify-this-song.gif")
 
@@ -71,7 +71,7 @@ using the `axios` package to the Bands in Town, Spotify and OMDB APIs, and retur
 
    * If the user does not enter a movie selection, the program outputs data for the movie 'Mr. Nobody.'
    
-   * **Demonstraion gif:**
+   * **Demonstration gif:**
    
    ![Liri Bot](screenshots/movie-this.gif "movie-this.gif")
    
@@ -80,7 +80,7 @@ using the `axios` package to the Bands in Town, Spotify and OMDB APIs, and retur
 
      * References the random.txt file to run `spotify-this-song` for "I Want it That Way".
      
-     * **Demonstraion gif:**
+     * **Demonstration gif:**
    
    ![Liri Bot](screenshots/do-what-it-says.gif "do-what-it-says.gif")
 
