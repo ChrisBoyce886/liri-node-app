@@ -16,7 +16,7 @@ using the `axios` package to the Bands in Town, Spotify and OMDB APIs, and retur
 
 1. **`node liri.js concert-this '<artist/band name here>'`**
 
-   * Searches the Bands in Town Artist Events API for an artist and renders the following information about each event to the terminal:
+   * Searches the Bands in Town Artist Events API for an artist and renders the following concert information to the terminal:
 
      * Name of the venue
 
@@ -30,7 +30,7 @@ using the `axios` package to the Bands in Town, Spotify and OMDB APIs, and retur
 
      * Artist(s)
 
-     * The song's name
+     * Song name
 
      * A preview link of the song from Spotify
 
@@ -48,8 +48,9 @@ using the `axios` package to the Bands in Town, Spotify and OMDB APIs, and retur
        * Rotten Tomatoes Rating
        * Country where movie was produced
        * Language(s)
-       * Plot of the movie
        * Actors in the movie
+       * Plot of the movie
+      
 
    * If the user does not enter a movie selection, the program outputs data for the movie 'Mr. Nobody.'
 
@@ -74,5 +75,5 @@ using the `axios` package to the Bands in Town, Spotify and OMDB APIs, and retur
   * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
   * [Axios](https://www.npmjs.com/package/axios)
   * [Moment](https://www.npmjs.com/package/moment)
-  * [DotEnv]https://www.npmjs.com/package/dotenv)
+  * [DotEnv](https://www.npmjs.com/package/dotenv)
   
