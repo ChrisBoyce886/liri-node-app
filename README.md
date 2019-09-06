@@ -10,6 +10,13 @@ using the `axios` package to the Bands in Town, Spotify and OMDB APIs, and retur
    * `do-what-it-says`
    
    
+## Deployment
+
+1. Clone repo
+2. Run `npm install`
+3. At command prompt run `node liri.js <pass in a command instruction from above> <enter artist, song, or movie>`
+
+   
 ## Design Notes
 
 **LIRI** searches **Bands in Town** for concerts, **Spotify** for songs, and **OMDB** for movies.
