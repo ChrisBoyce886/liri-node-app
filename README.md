@@ -1,7 +1,7 @@
 # LIRI Bot
 
 This game is my Unit 7 homework submission for UNC Charlotte's Coding Bootcamp.  
-**LIRI** is a Language Interpretation and Recognition Interface. It is a command line node app that takes in parameters, sends requests
+LIRI is a Language Interpretation and Recognition Interface. It is a command line node app that takes in parameters, sends requests
 using the `axios` package to the Bands in Town, Spotify and OMDB APIs and returns data. LIRI takes in following commands: 
 
    * `concert-this`
