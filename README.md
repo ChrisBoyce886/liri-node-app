@@ -101,6 +101,6 @@ using the `axios` package to the Bands in Town, Spotify and OMDB APIs, and retur
 
   * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
   * [Axios](https://www.npmjs.com/package/axios)
-  * [Moment](https://www.npmjs.com/package/moment)
+  * [Moment.js](https://www.npmjs.com/package/moment)
   * [DotEnv](https://www.npmjs.com/package/dotenv)
   
