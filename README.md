@@ -12,9 +12,9 @@ using the `axios` package to the Bands in Town, Spotify and OMDB APIs, and retur
    
 ## Deployment
 
-1. Clone repo
-2. Run `npm install`
-3. At command prompt run `node liri.js <pass in a command instruction from above> <enter artist, song, or movie>`
+1. Clone repo - https://github.com/ChrisBoyce886/liri-node-app.git
+2. Run `npm install` at root directory
+3. Run `node liri.js <pass in a command instruction from above> <enter artist, song, or movie>` at root directory
 
    
 ## Design Notes
